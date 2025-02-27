@@ -4,7 +4,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 # read our data in using 'pd.read_csv('file')'
-data_path  = 'linear_regression/car_dekho.csv'
+data_path  = 'linear_Regression/car_dekho.csv'
 car_data = pd.read_csv(data_path)
 
 # Exploring the Data
